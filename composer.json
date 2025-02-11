@@ -3,7 +3,7 @@
     "description": "Accept Worldline Connect payments on the Magento 2 platform",
     "license": "MIT",
     "require": {
-        "php": "~8.1.0 || ~8.2.0",
+        "php": "~8.1.0 || ~8.2.0 || ~8.3.0",
         "ext-json": "*",
         "magento/module-backend": "^102.0.0",
         "magento/module-catalog": "^104.0.0",
