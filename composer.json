@@ -1,5 +1,5 @@
 {
-    "name": "worldline-global-collect/connect-extension-magento2",
+    "name": "amersfoj/connect-extension-magento2",
     "description": "Accept Worldline Connect payments on the Magento 2 platform",
     "license": "MIT",
     "require": {
